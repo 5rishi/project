@@ -1,0 +1,21 @@
+credentials:
+--------------------------------------
+***jira storyboard***
+mail id: mmaharshi9599@gmail.com
+site: mmaharshi
+pwd:8125644790
+--------------------------------------
+*****Github account*****
+mail id: mmaharshi9599@gmail.com
+username:5rishi
+pwd:Github@9599
+--------------------------------------
+******anypoint platform******
+mail id: mmaharshi9599@gmail.com
+username: rishi5
+pwd:Rishi#9599
+--------------------------------------
+*****anypoint studio******
+
+
+
